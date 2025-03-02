@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2229" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2830" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -97,7 +97,7 @@
         <mxCell id="yOlltbZVxZX-zZ10FpWM-90" value="&lt;b&gt;智能客服的需求&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1、收集必要的上下文再转人工&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;---减少低效沟通&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、问题存储到数据库&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;---积累原始语料，测评集&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1228" y="575.31" width="309" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="yOlltbZVxZX-zZ10FpWM-97" value="核心指标&lt;div style=&quot;text-align: left;&quot;&gt;1、转人工率&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、问题采纳率&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、满意度&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4、问题处理时长&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yOlltbZVxZX-zZ10FpWM-97" value="核心指标&lt;div style=&quot;text-align: left;&quot;&gt;1、转人工率&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、问题采纳率&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、用户满意度&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4、问题处理时长&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="681.43" y="324.8" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yOlltbZVxZX-zZ10FpWM-103" value="&lt;b&gt;CI平台的需求&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1、各级CI各维度指标统计&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、CI失败信息汇聚&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、一键式提单&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4、一键式转个人工作通知&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -163,7 +163,7 @@
         <mxCell id="yOlltbZVxZX-zZ10FpWM-204" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8E7FF;opacity=20;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="948.8" width="70.1" height="81.2" as="geometry" />
         </mxCell>
-        <mxCell id="yOlltbZVxZX-zZ10FpWM-226" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;flowAnimation=1;strokeColor=#FF8000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yOlltbZVxZX-zZ10FpWM-226" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;dashed=1;flowAnimation=1;strokeColor=#999900;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="903.38" y="990" as="sourcePoint" />
             <mxPoint x="370" y="835" as="targetPoint" />
@@ -202,7 +202,7 @@
         <mxCell id="yOlltbZVxZX-zZ10FpWM-231" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="890" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yOlltbZVxZX-zZ10FpWM-233" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;flowAnimation=1;strokeColor=#FF8000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yOlltbZVxZX-zZ10FpWM-233" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;flowAnimation=1;strokeColor=#999900;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="483" y="990" as="sourcePoint" />
             <mxPoint x="373" y="990" as="targetPoint" />
@@ -322,7 +322,7 @@
         <mxCell id="yOlltbZVxZX-zZ10FpWM-170" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8E7FF;opacity=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="591.9100000000001" y="774.0496997098319" width="205.06" height="81.2499156488292" as="geometry" />
         </mxCell>
-        <mxCell id="yOlltbZVxZX-zZ10FpWM-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.451;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#A680B8;dashed=1;flowAnimation=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yOlltbZVxZX-zZ10FpWM-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.451;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#999900;dashed=1;flowAnimation=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1048.0860400000006" y="729.6254799999999" as="sourcePoint" />
             <mxPoint x="750" y="730" as="targetPoint" />
@@ -349,7 +349,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yOlltbZVxZX-zZ10FpWM-259" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#A680B8;dashed=1;flowAnimation=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yOlltbZVxZX-zZ10FpWM-221">
+        <mxCell id="yOlltbZVxZX-zZ10FpWM-259" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#FF8000;dashed=1;flowAnimation=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yOlltbZVxZX-zZ10FpWM-221">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="295" y="819" as="sourcePoint" />
             <mxPoint x="725" y="729" as="targetPoint" />
@@ -365,7 +365,7 @@
             <mxPoint x="303.7840000000001" y="507.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yOlltbZVxZX-zZ10FpWM-176" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF8000;flowAnimation=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yOlltbZVxZX-zZ10FpWM-176" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#999900;flowAnimation=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="761.01" y="894.52" as="sourcePoint" />
             <mxPoint x="1049.0100000000002" y="766.3299999999999" as="targetPoint" />
@@ -472,6 +472,16 @@
         </mxCell>
         <mxCell id="yOlltbZVxZX-zZ10FpWM-171" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8E7FF;opacity=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="591.9100000000001" y="864.0040421081045" width="205.06" height="72.0230784803293" as="geometry" />
+        </mxCell>
+        <mxCell id="yOlltbZVxZX-zZ10FpWM-331" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.344;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;dashed=1;flowAnimation=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yOlltbZVxZX-zZ10FpWM-306">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="906.44" y="865.65" as="sourcePoint" />
+            <mxPoint x="482.44" y="423.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="906" y="864" />
+              <mxPoint x="906" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

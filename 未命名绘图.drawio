@@ -1,9 +1,171 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="1E0bUWyhOSdrAPOrtD9T">
-    <mxGraphModel>
+    <mxGraphModel dx="819" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ExSFehlVko5_RfciMpRW-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.66" y="419" as="sourcePoint" />
+            <mxPoint x="390.66" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380.66" y="467" as="sourcePoint" />
+            <mxPoint x="380.66" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="390" width="110" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="390" width="293" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="457" width="240" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-2" value="功能模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="127" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-14" value="控制面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="396" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-18" value="数据面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-19" value="driver-container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="271" y="460" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ExSFehlVko5_RfciMpRW-31" target="ExSFehlVko5_RfciMpRW-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-31" value="GPU硬件: NVIDIA、BIREN、HWJ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B5739D,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="261" y="630" width="239" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-37" value="DCGM管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="542" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-39" value="驱动管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="585" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-40" value="加速节点管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-41" value="加速设备管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="502" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-44" value="容器设备管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-45" value="北向接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-46" value="dcgm-installer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="391" y="460" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-47" value="device-plugin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="271" y="489" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-48" value="exporter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="391" y="489" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-49" value="device-agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="271" y="518" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-50" value="discovery" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="391" y="519" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-51" value="DCGM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B5739D,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="271" y="548" width="220" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B5739D,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="271" y="577" width="220" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-53" value="apiserver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="271" y="402" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-54" value="operator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9999FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="391" y="402" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="110" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-56" value="对外能力层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="390" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-57" value="告警上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="572" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-58" value="指标上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="615" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-60" value="状态管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="527" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-61" value="策略配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-62" value="资源上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="435" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-63" value="AIOPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-64" value="ATPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="489" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-65" value="WLET" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="545" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-66" value="Volcano" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="444.5" as="sourcePoint" />
+            <mxPoint x="660" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="502.5" as="sourcePoint" />
+            <mxPoint x="660" y="502" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="560.5" as="sourcePoint" />
+            <mxPoint x="660" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="617.5" as="sourcePoint" />
+            <mxPoint x="660" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.708;exitY=-0.096;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418.212" y="627.1200000000001" as="sourcePoint" />
+            <mxPoint x="418" y="542" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-77" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="390" width="30" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-82" value="SWICH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="426" y="582" width="49" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-83" value="KMD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="296.5" y="582" width="49" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ExSFehlVko5_RfciMpRW-84" value="UMD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="356.5" y="582" width="49" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

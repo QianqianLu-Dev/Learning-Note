@@ -757,7 +757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L262QplfydG_x2ouldFe" name="交互能耗">
-    <mxGraphModel dx="1389" dy="968" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1058" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -770,7 +770,7 @@
             <mxPoint x="760" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gMGCU8T2CQh7zxhpo1tp-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.078;entryY=-0.195;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="gMGCU8T2CQh7zxhpo1tp-4">
+        <mxCell id="gMGCU8T2CQh7zxhpo1tp-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.078;entryY=-0.195;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="gMGCU8T2CQh7zxhpo1tp-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="181" y="379" as="sourcePoint" />
             <mxPoint x="181" y="49" as="targetPoint" />
@@ -962,33 +962,33 @@
           <mxGeometry x="500" y="90" width="92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMGCU8T2CQh7zxhpo1tp-62" value="问题理解" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="70" height="30" as="geometry" />
+          <mxGeometry x="-121" y="76" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMGCU8T2CQh7zxhpo1tp-63" value="上下文管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="127" width="70" height="30" as="geometry" />
+          <mxGeometry x="-121" y="127" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMGCU8T2CQh7zxhpo1tp-64" value="问题定界" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="177" width="70" height="30" as="geometry" />
+          <mxGeometry x="-121" y="173" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMGCU8T2CQh7zxhpo1tp-65" value="日志摘要" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="-118" y="220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMGCU8T2CQh7zxhpo1tp-66" value="根因分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="287" width="70" height="30" as="geometry" />
+          <mxGeometry x="-118" y="262" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMGCU8T2CQh7zxhpo1tp-67" value="问题修复" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="341" width="70" height="30" as="geometry" />
+          <mxGeometry x="-118" y="306" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b0bV9LARCiTGXo2kn7vT-1" value="产品用户（所外）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#004C99;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="b0bV9LARCiTGXo2kn7vT-1" value="产品用户（所外）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#004C99;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="220" y="52" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b0bV9LARCiTGXo2kn7vT-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="b0bV9LARCiTGXo2kn7vT-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="120" as="sourcePoint" />
             <mxPoint x="230" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b0bV9LARCiTGXo2kn7vT-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#030303;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b0bV9LARCiTGXo2kn7vT-1">
+        <mxCell id="b0bV9LARCiTGXo2kn7vT-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#030303;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="b0bV9LARCiTGXo2kn7vT-1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="319" y="96" as="sourcePoint" />
             <mxPoint x="304" y="160" as="targetPoint" />

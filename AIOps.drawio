@@ -69,9 +69,6 @@
         <mxCell id="rgQ4CmdbKZ4vtzoCY1_a-17" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;rotation=-180;direction=east;flipV=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="418.83000000000004" y="405.40620437956204" width="140" height="44.96999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="rgQ4CmdbKZ4vtzoCY1_a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="389" y="660" width="40" height="20.14" as="geometry" />
-        </mxCell>
         <mxCell id="yOlltbZVxZX-zZ10FpWM-316" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="897.4300000000001" y="894" width="156" height="104.95" as="geometry" />
         </mxCell>
